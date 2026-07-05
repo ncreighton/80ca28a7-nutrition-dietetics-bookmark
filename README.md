@@ -1,2 +1,50 @@
-# 80ca28a7-nutrition-dietetics-bookmark
-The nutrition dietetics tool you'd build yourself — if you had the time.  Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Nutrition &amp; Dietetics Bookmark Manager And Knowledge Base — fully configured and ready to use - One-c
+# Nutrition & Dietetics Bookmark Manager and Knowledge Base Chrome Extension
+
+> Extension for Nutrition Dietetics
+
+The nutrition dietetics tool you'd build yourself — if you had the time.
+
+Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.
+
+## What's Included
+
+- Nutrition & Dietetics Bookmark Manager And Knowledge Base — fully configured and ready to use
+-...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://propathacademy.gumroad.com/l/abonin)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/00weVdcLl8Ise001ZicZF2w)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/abonin)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
